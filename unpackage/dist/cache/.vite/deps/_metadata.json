@@ -1,0 +1,15 @@
+{
+  "hash": "27204b45",
+  "configHash": "d46db1ab",
+  "lockfileHash": "ad637ce7",
+  "browserHash": "51e510b7",
+  "optimized": {
+    "exercise": {
+      "src": "../../../../../node_modules/exercise/dist/index.mjs",
+      "file": "exercise.js",
+      "fileHash": "dd8975a0",
+      "needsInterop": false
+    }
+  },
+  "chunks": {}
+}

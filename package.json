@@ -1,0 +1,12 @@
+{
+	"scripts": {
+		"move": "npm run move"
+	},
+	"dependencies": {
+		"exercise": "file:../../Documents/front/pkg_dev/exercise",
+		"hbuilder-build-move": "file:../../Documents/front/pkg_dev/hbuilder-build-move"
+	},
+	"devDependencies": {
+		"cross-env": "^7.0.3"
+	}
+}

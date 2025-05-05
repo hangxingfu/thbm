@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../node_modules/exercise/dist/index.mjs"],
+  "sourcesContent": ["// src/index.ts\nfunction hello(name) {\n  return `Hello ${name}!`;\n}\nfunction sum(a, b) {\n  return a + b;\n}\nexport {\n  hello,\n  sum\n};\n"],
+  "mappings": ";AACA,SAAS,MAAM,MAAM;AACnB,SAAO,SAAS,IAAI;AACtB;AACA,SAAS,IAAI,GAAG,GAAG;AACjB,SAAO,IAAI;AACb;",
+  "names": []
+}

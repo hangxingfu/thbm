@@ -26,14 +26,13 @@
 			<view @click="push">push</view>
 			<view @click="push">push</view>
 			<view @click="unshift">unshift</view>
+			<view @click="unshift">unshift</view>
 			<view @click="splice">splice</view>
 		</view>
 	</view>
 </template>
 
 <script>
-import { sum, hello } from 'exercise';
-
 export default {
 	data() {
 		return {
@@ -93,8 +92,6 @@ export default {
 		};
 	},
 	onLoad() {
-		console.log(hello('zhangsan'), sum(1, 2));
-
 		let listdata = [];
 		// 循环数据
 		listdata.length = 100;

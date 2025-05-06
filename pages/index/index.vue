@@ -21,7 +21,9 @@
 			@change="change"
 			@confirm="confirm"
 		></HM-dragSorts>
+
 		<view class="test_btn">
+			<view @click="push">push</view>
 			<view @click="push">push</view>
 			<view @click="unshift">unshift</view>
 			<view @click="splice">splice</view>

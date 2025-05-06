@@ -47,7 +47,7 @@ export default {
 				*/
 			tmplist: [
 				{
-					name: '花呗',
+					name: '花呗123456',
 					icon: '/static/img/1.png'
 				},
 				{

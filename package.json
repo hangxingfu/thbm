@@ -4,6 +4,6 @@
 	},
 	"devDependencies": {
 		"cross-env": "^7.0.3",
-		"hbuilder-build-move": "^0.0.2"
+		"hbuilder-build-move": "^0.0.5"
 	}
 }

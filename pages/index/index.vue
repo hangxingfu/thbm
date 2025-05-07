@@ -95,6 +95,7 @@ export default {
 		let listdata = [];
 		// 循环数据
 		listdata.length = 100;
+		console.log(listdata);
 		for (let i = 0; i < listdata.length; i++) {
 			let index = i % 10;
 			listdata[i] = JSON.parse(JSON.stringify(this.tmplist[index]));

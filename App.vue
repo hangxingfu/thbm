@@ -4,7 +4,7 @@ export default {
 		console.log('App Launch');
 	},
 	onShow: function () {
-		console.log('App Show 0.0');
+		console.log('App Show 0.0__');
 	},
 	onHide: function () {
 		console.log('App Hide');
